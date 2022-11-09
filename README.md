@@ -1,5 +1,5 @@
-# A2.14
-Sensores
+//A2.14
+//Sensores
 #include <LinkedList.h>
 
 class Sensores {
